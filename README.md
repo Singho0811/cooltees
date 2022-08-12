@@ -40,4 +40,5 @@ npm start
 
 
 ```
-##screenshort. 
+##screenshort. <img width="723" alt="ali (1)" src="https://user-images.githubusercontent.com/100500216/184456401-3560bade-c173-49c5-b625-4ec652fe887f.png">
+
